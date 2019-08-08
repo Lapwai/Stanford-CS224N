@@ -1,6 +1,6 @@
 # Stanford-CS224N
 Course Notebook
-Stanford CS224N|Lecture 1-Introduction and Word Vectors
+# Stanford CS224N|Lecture 1-Introduction and Word Vectors
 What do we hope to teach?
 1.	An understanding of the effective modern methods for deep learning
 a.	Basic first, then key methods used in NLP: Recurrent networks, attention, etc.

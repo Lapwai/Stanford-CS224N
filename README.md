@@ -1,13 +1,16 @@
-# Stanford-CS224N
-Course Notebook
 # Stanford CS224N|Lecture 1-Introduction and Word Vectors
-## What do we hope to teach?
-### An understanding of the effective modern methods for deep learning
-### 	Basic first, then key methods used in NLP: Recurrent networks, attention, etc.
-2.	A big picture understanding of human languages and the difficulties in understanding and producing them.
-3.	An understanding of and ability to build systems (in PyTorch) for some of the major problems in NLP:
+## Expectation of The Course
+
+1
+An understanding of the effective modern methods for deep learning
+Basic first, then key methods used in NLP: Recurrent networks, attention, etc.
+2
+A big picture understanding of human languages and the difficulties in understanding and producing them.
+3
+An understanding of and ability to build systems (in PyTorch) for some of the major problems in NLP:
 a.	Word meaning, dependency parsing, machine translation, question answering.
-4.	High-Level Plan for Problem Sets
+4
+High-Level Plan for Problem Sets
 a.	Homework 1 hopefully an easy on ramp – an IPython Notebook
 b.	Homework 2 is pure Python (numpy) but expects you to do
 (multivariate) calculus so you really understand the basics
